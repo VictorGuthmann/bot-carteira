@@ -91,3 +91,4 @@ Servidor de Suporte no Discord: [https://discord.gg/cyY5cuqT\]
 
 Desenvolvedor: [ZeroSentimentos] Última atualização: 29 de setembro de 2025
  
+ 
